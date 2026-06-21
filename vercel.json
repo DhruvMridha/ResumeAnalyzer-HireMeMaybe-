@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "app/api/analyze/route.ts":   { "maxDuration": 60 },
+    "app/api/rewrite/route.ts":   { "maxDuration": 60 },
+    "app/api/compare/route.ts":   { "maxDuration": 60 },
+    "app/api/roast/route.ts":     { "maxDuration": 30 },
+    "app/api/recruiter/route.ts": { "maxDuration": 30 }
+  }
+}
